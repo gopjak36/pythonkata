@@ -12,6 +12,6 @@
 
 4. Then you can check your solution in the Solution folder.
 
-> If your solution is different, but it works correctly. __ I congratulate you you found one more solved probem. Share them dreams! __
+> If your solution is different, but it works correctly. __I congratulate you you found one more solved probem. Share them dreams!__
 
-5. Congratulations, you decided to Katas, __other one more? __
+5. Congratulations, you decided to Katas, __other one more?__
