@@ -31,7 +31,7 @@ To find the outstanding balance after one month, you need to adhere to such an a
   3. Calculate the minimum payment we can make in a month:
     - __minPay = (upperPay + lowerPay)/2__
 
-  4. Calculate the outstanding balance for one action. For an extensive solution, see 2.Katas (Little Python), following the link:
+  4. Calculate the outstanding balance for one action. For an extensive solution, see [2.Katas (Little Python)](https://github.com/gopjak36/pythonkata/tree/master/en/Python%20Katas/1.%20Little%20Python/2.%20Katas#example), following the link:
     - __utStandingBalance = outStandingBalance - minPay + ((outStandingBalance - minPaye) * monthlyPercentRate)__
 
 __Note:__ The main part of the Binary search algorithm, it's up to you.
@@ -48,7 +48,7 @@ __Note:__ The main part of the Binary search algorithm, it's up to you.
 
 > where "-->" means after starting the program
 
-__Note:__ For comparison, you can run one of the values using the program that we did in 2.Katas (Median Python). __Algorithms is power?__
+__Note:__ For comparison, you can run one of the values using the program that we did in [2.Katas (Median Python)](https://github.com/gopjak36/pythonkata/tree/master/en/Python%20Katas/2.%20Median%20Python/2.%20Katas). __Algorithms is power?__
 
 ## What's next ?
 

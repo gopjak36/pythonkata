@@ -21,7 +21,7 @@ Write a function that returns such a string: __"Minimum Payment every month: b |
 
 ## Example:
 
-To find the outstanding balance after one month without a monthly interest rate, you need to adhere to an algorithm that I described in detail in 2.Katas (Little Python), follow the link and see.
+To find the outstanding balance after one month without a monthly interest rate, you need to adhere to an algorithm that I described in detail in [2.Katas (Little Python)](https://github.com/gopjak36/pythonkata/tree/master/en/Python%20Katas/1.%20Little%20Python/2.%20Katas#example), follow the link and see.
 
 All you have to do is pick up __minPay__ For the already known algorithm.
 
