@@ -2,13 +2,15 @@
 
 ## Объяснение Решения | Непогашенный Остаток на Кредитной Карте
 
+## Решение:
+
 1. Создаем функцию, которая принимает три переменные:
 ```python
 def creditCardOutStanding(outStandingBalance, yearlyPercentRate, monthlyPercentRate):
   ...
 ```
 
-2. Создаем переменную __month__ для подчета месяцев, со значением 1, так как начнем с первого мессяца:
+2. Создаем переменную __month__ для подсчета месяцев, со значением 1, так как начнем с первого месяца:
 ```python
   ...
   month = 1
@@ -34,7 +36,7 @@ def creditCardOutStanding(outStandingBalance, yearlyPercentRate, monthlyPercentR
     ...
   ```
 
-  - Выводим на экран строку(по условию) и прибавляем к нашей переменной month 1 чтобы перейти на следующий месяц:
+  - Выводим на экран строку(по условию) и прибавляем к нашей переменной month 1, чтобы перейти на следующий месяц:
   ```python
     ...
     outStandingBalance = round(balanceAfterMinPay + percent,2)

@@ -12,10 +12,10 @@ def creditCardOutStanding(outStandingBalance, yearlyPercentRate, monthlyPercentR
         balanceAfterMinPay = round(outStandingBalance - minPay,2)
         percent = round((yearlyPercentRate/12.0)*balanceAfterMinPay,2)
         outStandingBalance = round(balanceAfterMinPay + percent,2)
-        print('Месяц '+str(month)+' Непогашенный Остаток: '+str(outStandingBalance) + ' | Минимальный Платеж в этом месяце: ' + str(minPay))
+        print('Month '+str(month)+' Outstanding Balance: '+str(outStandingBalance) + ' | Minimum payment this month: ' + str(miniPay))
         month +=1
     # final part:
-    return "Непогашенный Остаток составляет: " + str(outStandingBalance)
+    return "Remaining Outstanding Balance: " + str(outStandingBalance)
 
 # test part:
 print(creditCardOutStanding(3329,0.2,0.03)) # --> 2816.55
