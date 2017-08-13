@@ -1,0 +1,9 @@
+words    with
+   multi   space
+
+   and
+
+   in
+
+
+         difference    lines
