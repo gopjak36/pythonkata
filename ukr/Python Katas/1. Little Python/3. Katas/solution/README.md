@@ -1,6 +1,6 @@
 # 3. Katas
 
-## Пояснення Рішення | Текст без багаточисльних пробілів
+## Пояснення Рішення | Текст без багаточисельних пробілів
 
 ## Рішення:
 - Перша функція:
@@ -74,7 +74,6 @@
         words_list.append(word)   # add word to list
     ```    
     - Створюємо змінну в яку відразу додаємо всі слова зі списку для слів у вигляді рядка:
-    words_list.append(word)   # add word to list
     ```python
       ...
       string = ' '.join(words_list) # add words list to string

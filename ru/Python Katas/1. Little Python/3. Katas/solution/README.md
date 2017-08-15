@@ -74,7 +74,6 @@
         words_list.append(word)   # add word to list
     ```    
     - Создаем переменную в которую сразу добавляем все слова из списка для слов в виде строки:
-    words_list.append(word)   # add word to list
     ```python
       ...
       string = ' '.join(words_list) # add words list to string
