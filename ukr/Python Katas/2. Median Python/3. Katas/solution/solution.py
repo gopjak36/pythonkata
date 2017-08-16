@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*
-''' Search for products in a file  '''
+''' Search for products in a file '''
 
 # First function - Get list with properties from file:
 def from_file_to_list(f):
@@ -50,9 +50,9 @@ def search_product_by_name(search,f):
 data_file = 'data.txt' # file with data
 
 # Main part:
-search = str(input("Введите название товара: ")) # input search product name
+search = str(input("Введіть назву товару: ")) # input search product name
 variables_for_print = search_product_by_name(search, data_file) # get variable for final print
 
 # Print part:
 countries_as_str = ' '.join(variables_for_print[1]) # get all countries for print
-print("Товар: %s; Страны для  экспорта: %s; Объем: %s;" % (variables_for_print[0],countries_as_str,variables_for_print[2])) # Final print
+print("Товар: %s; Країни для експорту: %s; Об `єм: %s;" % (variables_for_print[0],countries_as_str,variables_for_print[2])) # Final print
