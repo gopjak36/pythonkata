@@ -4,11 +4,11 @@
 
 ## Проблема:
 
-Усовершенствовать [Katas 3 | Поиск товаров в файле](https://github.com/gopjak36/pythonkata/tree/master/ru/Python%20Katas/2.%20Median%20Python/3.%20Katas), чтобы была возможность записи товаров в файл.
+Усовершенствовать [Katas 3 | Поиск товаров в файле](https://github.com/gopjak36/pythonkata/tree/master/ru/Python%20Katas/2.%20Median%20Python/3.%20Katas), чтобы была возможность записи товаров в файл, __определенное количество товаров__.
 
 ## Задача:
 
-Добавить зпись товаров в файл в [Katas 3 | Поиск товаров в файле](https://github.com/gopjak36/pythonkata/tree/master/ru/Python%20Katas/2.%20Median%20Python/3.%20Katas)
+Добавить зпись определенного количество товаров в файл в [Katas 3 | Поиск товаров в файле](https://github.com/gopjak36/pythonkata/tree/master/ru/Python%20Katas/2.%20Median%20Python/3.%20Katas)
 
 ## Данные для проверки:
 
