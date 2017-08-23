@@ -8,7 +8,7 @@
 
 ## Задача:
 
-Добавить зпись определенного количество товаров в файл в [Katas 3 | Поиск товаров в файле](https://github.com/gopjak36/pythonkata/tree/master/ru/Python%20Katas/2.%20Median%20Python/3.%20Katas)
+Добавить запись определенного количество товаров в файл в [Katas 3 | Поиск товаров в файле](https://github.com/gopjak36/pythonkata/tree/master/ru/Python%20Katas/2.%20Median%20Python/3.%20Katas)
 
 ## Данные для проверки:
 

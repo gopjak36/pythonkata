@@ -11,9 +11,9 @@ def add_products_to_file(n):
 
   for i in range(n):
     # make product properties:
-    product = str(input('Название продукта: '))
-    country = str(input('Страна продукта: '))
-    value = input('Объем продукта: ')
+    product = str(input('Назва продукту: '))
+    country = str(input('Країна продукту: '))
+    value = input('Обєм продукту: ')
     # add product properties to list:
     list_of_product = [product, country, value]
     # convert list to string:
@@ -32,7 +32,7 @@ HERE: Python Katas 3 ( Python Median level)
 '''
 
 # file variable:
-number_of_product = int(input('Введите количество товаров, которые надо записать:'))
+number_of_product = int(input('Введіть кількість товарів, які треба записати:'))
 data_file = add_products_to_file(number_of_product)
 
 '''
