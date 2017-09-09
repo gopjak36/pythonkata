@@ -10,4 +10,4 @@ _You can read about Its in the choosen language._
 
 # When the Python Katas pack come out ?
 
-I will try to do them every week
+__I will try to do them every week__
