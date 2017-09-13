@@ -1,4 +1,4 @@
-# 4. Katas
+p# 4. Katas
 
 ## Classes and files
 
@@ -26,19 +26,22 @@ As you understand with the title, your task will be to write a class. Which will
 
 > VowelsClass() - class name
 
-1. VowelsClass('some word in on string') --> ```text
+1. VowelsClass('some word in on string') -->
+```text
     String: 'some word in on string'
     Without vowels 'sm wrd in n strng'; Write to file --> 'with_vowels.txt'
     Without consonants 'oe o i o i'; Write to file --> 'without_vowels.txt'
 ```
 
-2. VowelsClass('one, two, three, four, five, six, ...') --> ```text
+2. VowelsClass('one, two, three, four, five, six, ...') -->
+```text
     String: 'one, two, three, four, five, six, ...'
     Without vowels 'on, tw, thr, fr, fv, sx, ...'; Write to file --> 'with_vowels.txt'
     Without consonants 'e, o, ee, ou, ie, i, ...'; Write to file --> 'without_vowels.txt'
 ```
 
-3. VowelsClass('I'm an independent string') --> ```text
+3. VowelsClass('I'm an independent string') -->
+```text
     String: 'I'm an independent string'
     Without vowels ''m n ndpndnt strng'; Write to file --> 'with_vowels.txt'
     Without consonants 'I' a ieee i'; Write to file --> 'without_vowels.txt'

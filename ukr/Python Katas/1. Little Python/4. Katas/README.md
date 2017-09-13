@@ -26,19 +26,22 @@
 
 > # де VowelsClass - назва класу
 
-1. VowelsClass('some word in on string') --> ```text
+1. VowelsClass('some word in on string') -->
+```text
     Рядок: 'some word in on string'
     Без голосних 'sm wrd in n strng'; Записана в файл --> 'with_vowels.txt'
     Без приголосних 'oe o i o i'; Записана в файл --> 'without_vowels.txt'
 ```
 
-2. VowelsClass('one, two, three, four, five, six, ...') --> ```text
+2. VowelsClass('one, two, three, four, five, six, ...') -->
+```text
     Рядок: 'one, two, three, four, five, six, ...'
     Без голосних 'on, tw, thr, fr, fv, sx, ...'; Записана в файл --> 'with_vowels.txt'
     Без приголосних 'e, o, ee, ou, ie, i, ...'; Записана в файл --> 'without_vowels.txt'
 ```
 
-3. VowelsClass('I'm an independent string') --> ```text
+3. VowelsClass('I'm an independent string') -->
+```text
     Рядок: 'I'm an independent string'
     Без голосних ''m n ndpndnt strng'; Записана в файл --> 'with_vowels.txt'
     Без приголосних 'I' a ieee i'; Записана в файл --> 'without_vowels.txt'
