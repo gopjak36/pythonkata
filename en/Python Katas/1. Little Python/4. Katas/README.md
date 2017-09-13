@@ -9,7 +9,7 @@ We have a string in __lower case__, you need to get two lines one with the other
 ```python
     print(VowelsClass('some string'))
 
-    # где VowelsClass - class name
+    # where VowelsClass - class name
 ```
 
 ## Task:
